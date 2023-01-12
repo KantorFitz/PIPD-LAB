@@ -1,1 +1,1 @@
-# UczenieANN
+# UczenieANN oraz Detectron
